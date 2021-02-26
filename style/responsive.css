@@ -1,0 +1,11 @@
+@media screen and (max-width: 700px){
+ header .container {
+   display: felx;
+   flex-direction: column;
+
+ }
+ .button {
+   margin-top: 5px;
+   width: 190px;
+ }
+}
